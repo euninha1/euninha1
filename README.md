@@ -3,7 +3,7 @@
 
 - 🔭 Trabalho como Analista TI
 - 🌱 Estudando Banco Oracle SQL / Python com foco em Data Science
-- 📫 Contate-me no email: fernanda.aamaral@outlook.com
+- 🏫 Sou estudante de Sistemas de Informação @Universidade Tiradentes
 
 <div align="center">
   <a href="https://github.com/euninha1">
