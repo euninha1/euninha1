@@ -14,7 +14,7 @@
   <img align="center" alt="Ninha-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Ninha-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Ninha-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="Ninha-Luffy" height="150" width="150"src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fview%2Fmikasa-attack-on-titan-shingeki-no-kyojin-season4attaque-des-titans-saison4liberio-war-hammer-titan-eren-gif-19207409&psig=AOvVaw3Y8beYI4-jCywhSpqvDe2o&ust=1666703827398000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCNjOjd75-PoCFQAAAAAdAAAAABAE">
+  <img align="right" alt="Natan-Luffy" height="150" width="150"src="https://media.tenor.com/p7nKXke-ol8AAAAS/mikasa-attack-on-titan-shingeki-no-kyojin-season4attaque-des-titans.gif">
 
   
 </div>
