@@ -7,8 +7,6 @@
 
 <div align="center">
   <a href="https://github.com/euninha1">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=euninha1&layout=compact&langs_count=7&theme=cobalt"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=euninha1&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
 </div>
 
 <div style="display: inline_block"><br>
