@@ -1,7 +1,7 @@
 ## E ae! Satisfação, sou a Fernanda Amaral 
 
 
-- 🔭 Trabalho como Analista TI
+- 🔭 Trabalho com Análise e desevolvimento de Sistemas 
 - 🌱 Estudando Banco Oracle SQL / Python com foco em Data Science
 - 🏫 Sou estudante de Sistemas de Informação @Universidade Tiradentes
 
