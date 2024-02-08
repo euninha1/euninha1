@@ -13,7 +13,9 @@
   <img align="center" alt="Ninha-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Ninha-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Ninha-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg" />
   <img align="right" alt="Natan-Luffy" height="150" width="150"src="https://media.tenor.com/p7nKXke-ol8AAAAS/mikasa-attack-on-titan-shingeki-no-kyojin-season4attaque-des-titans.gif">
+  
   
 </div>
   
