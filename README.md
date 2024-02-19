@@ -1,4 +1,4 @@
-## E ae! Satisfação, sou a Fernanda Amaral 
+## Fernanda Amaral 
 
 
 - 🔭 Trabalho com Análise e desevolvimento de Sistemas 
