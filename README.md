@@ -2,7 +2,7 @@
 
 
 - 🔭 Trabalho com Análise e desevolvimento de Sistemas 
-- 🌱 Desenvolvedora PL/SQL Oracle
+- 🌱 Desenvolvedora .PL/SQL Oracle .Python  .JavaScript
 - 🏫 Graduada em Sistemas de Informação @Universidade Tiradentes
 
 <div align="center">
