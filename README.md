@@ -2,8 +2,8 @@
 
 
 - 🔭 Trabalho com Análise e desevolvimento de Sistemas 
-- 🌱 Estudando Banco Oracle SQL / Python com foco em Data Science
-- 🏫 Sou estudante de Sistemas de Informação @Universidade Tiradentes
+- 🌱 Desenvolvedora PL/SQL Oracle
+- 🏫 Graduada em Sistemas de Informação @Universidade Tiradentes
 
 <div align="center">
   <a href="https://github.com/euninha1">
